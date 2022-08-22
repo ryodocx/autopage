@@ -1,2 +1,2 @@
-# go-autopage
-API auto pagination at Golang package &amp; cli
+# autopage
+Auto pagination for cli
